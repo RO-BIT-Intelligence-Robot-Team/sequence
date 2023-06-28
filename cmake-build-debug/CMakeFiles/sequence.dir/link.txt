@@ -1,0 +1,2 @@
+/usr/bin/ar qc devel/lib/libsequence.a CMakeFiles/sequence.dir/src/sequence_core.cpp.o CMakeFiles/sequence.dir/src/sequence.cpp.o CMakeFiles/sequence.dir/src/sequence_util.cpp.o CMakeFiles/sequence.dir/ros/src/sequence_ros.cpp.o
+/usr/bin/ranlib devel/lib/libsequence.a

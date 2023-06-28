@@ -1,0 +1,8 @@
+prefix=/home/robit/catkin_ws/src/Sequence/cmake-build-debug/devel
+
+Name: sequence
+Description: Description of sequence
+Version: 0.0.0
+Cflags: -I/home/robit/catkin_ws/src/Sequence/inc -I/home/robit/catkin_ws/src/Sequence/ros/inc
+Libs: -L${prefix}/lib -lsequence
+Requires: roscpp std_msgs
